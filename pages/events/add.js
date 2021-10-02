@@ -8,7 +8,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 import Link from "next/link";
 import Layout from "@/components/Layout";
-import { API_URL } from "../config";
+import { API_URL } from "config";
 
 import styles from "@/styles/Form.module.css";
 
