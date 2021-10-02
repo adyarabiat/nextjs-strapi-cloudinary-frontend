@@ -42,7 +42,7 @@ export async function getServerSideProps(context) {
    const start = +page === 1 ? 0 : (+page - 1) * PER_PAGE;
 
    // Fetch total/counts
-   const totalRes = await fetch(`${API_URL}/brunches/count`);
+   const totalRes = await fetch(`${API_URL}brunches/count`);
    const total = await totalRes.json();
 
    // Fetch events

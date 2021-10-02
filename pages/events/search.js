@@ -8,7 +8,6 @@ import { API_URL } from "config";
 
 export default function SearchPage({ events }) {
    const router = useRouter();
-   console.log(router);
    return (
       <Layout title="Search Brunches">
          <Link href="/events">Go Back</Link>
@@ -33,7 +32,7 @@ export async function getServerSideProps({ query: { term } }) {
          ],
       },
    });
-   console.log(query);
+
    const response = await fetch(`${API_URL}brunches?${query}`);
    const data = await response.json();
 
