@@ -1,0 +1,76 @@
+{
+   "events": [
+      {
+         "id": "1",
+         "name": "Saffron Asian Buffet Restaurant",
+         "slug": "saffron-asian-buffet-restaurant",
+         "venue": "Atlantis Palm",
+         "address": "Ground Level, West Tower, Atlantis - Dubai - United Arab Emirates",
+         "performers": "Atlantis",
+         "date": "June 09, 2021",
+         "time": "10:00 PM EST",
+         "description": "With more than 220 dishes and 20 live cooking stations, you're spoiled for choice at Saffron, Dubai’s largest buffet. Live it up at Saffron's party brunch on Friday, dine on an international buffet for breakfast, or enjoy flavour-packed dishes at dinner, when Saffron shines a spotlight on cuisines from around the world with Southeast Asian, Indian and seafood buffet feasts.",
+         "image": "/images/sample/event1.jpg"
+      },
+      {
+         "id": "2",
+         "name": "Zero Gravity ",
+         "slug": "zero-gravity",
+         "venue": "Jumeirah",
+         "address": "Dubai Marina, Skydive Dubai Drop Zone - King Salman Bin Abdulaziz Al Saud St - Dubai - United Arab Emirates",
+         "performers": "0 GRAVITY DJ",
+         "date": "June 2, 2021",
+         "time": "8:00 PM EST",
+         "description": "Chill out on a large day bed, sun lounger or cabana at our glass-fronted, insta-famous pool, complete with jacuzzi, rain showers and luxurious changing facilities. Soak up the sunshine on an ocean facing sun lounger, book a beach cabana or your very own ‘Killa Grilla’ barbecue on the sand ",
+         "image": "/images/sample/event2.jpg"
+      },
+      {
+         "id": "3",
+         "name": "Hideout",
+         "slug": "hideout",
+         "venue": "Encore",
+         "address": "Al Hubob St - Dubai Marina - Dubai - United Arab Emirates",
+         "performers": "Hideout DJ",
+         "date": "June 11, 2021",
+         "time": "7:00 PM EST",
+         "description": "After opening our doors in 2018, The Hideout has steadied itself as the unsung hero of  Dubai's clubbing scene. We compliment the authentic vibe with our dedication to delivering the very best in a night out across our vast lineup of music genres. The Hideout are huge supporters of music artists, and our stage has hosted dozens of memorable moments - from Pop icons SClub7, LibertyX; Dance Music pioneers Wide Boys, Baby D, Stanton Warriors, Brandon Block through to Garage legends So Solid Crew, Luck & Neat, MCDT, Oxide & Neutrino, Kelly La Roc and Sweet Female Attitude; to name a few. Also collaborating with a variety of talented locally based artists - Dane Bowers, Daryl Rees, Natalie Brogan, Jen Getz, Blaise & Sanchez, and partnering with House Of Queens & Spaced Out to bring some of the most avidly attended weekly club nights in Dubai. Our priority is to keep things simple, create nights out to remember, always be authentic, and do it for the love of the music.",
+         "image": "/images/sample/event3.jpg"
+      },
+      {
+         "id": "4",
+         "name": "CUE",
+         "slug": "cue",
+         "venue": "WHITE Dubai",
+         "address": "Sheraton Grand Hotel,Sheikh Zayed Road, Trade Centre 1, Dubai United Arab Emirates",
+         "performers": "CUE DJ",
+         "date": "June 20, 2021",
+         "time": "10:00 PM EST",
+         "description": "CUE’s program of live shows and performances promises to be nothing short of amazing. Expect an entertainment spectacular of world class acts, from dazzling aerial performances to heated fire shows. Bespoke shows will take place nightly not only centre stage, but all around you. So don’t forget to look up",
+         "image": "/images/sample/event4.jpg"
+      },
+      {
+         "id": "5",
+         "name": "Fogueira Restaurant & Lounge",
+         "slug": "fogueira-restaurant-Lounge",
+         "venue": "Studio 54",
+         "address": "Delta Hotels by Marriott Jumeirah Beach, Dubai, Bahar 7 - Jumeirah Beach Residence - Dubai - United Arab Emirates",
+         "performers": "Fogueira Restaurant & Lounge team",
+         "date": "June 30, 2021",
+         "time": "8:00 PM EST",
+         "description": "It’s advisable to skip lunch before heading to this all-you-can-eat churrascaria-style restaurant on JBR, but we still fear we won't have enough room for the meaty marathon to come.Be warned: it’s hard not to have eyes bigger than your stomach when you’re presented with such an array of dishes. We race to the starters laid out in the dining area, filling our plates with everything from quails eggs to  pineapple carpaccio.",
+         "image": "/images/sample/event5.jpg"
+      },
+      {
+         "id": "6",
+         "name": "Hi Five",
+         "slug": "hi-five",
+         "venue": "Onyx Club",
+         "address": "Holiday Inn express - Al Sufouh - Dubai Internet City - Dubai - United Arab Emirates",
+         "performers": "Hi Five DJ",
+         "date": "July 2, 2021",
+         "time": "8:00 PM EST",
+         "description": "House drinks are around Dhs40 to Dhs50, however, there’s a happy hour offering for Dhs25 between 5pm and 8pm. There’s also a Thursday ladies’ night from 5pm, where you’ll get three free drinks –or unlimited plus a main for Dhs99 – as well as a Friday brunch, which is Dhs355 for house drinks.",
+         "image": "/images/sample/event6.jpg"
+      }
+   ]
+}
